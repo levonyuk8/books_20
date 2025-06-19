@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Dystopian",
+    "pages": 328,
+    "image": "https://m.media-amazon.com/images/I/81StSOpmkjL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A dystopian novel set in a totalitarian society where the government controls every aspect of life, including thought and history, through surveillance and propaganda."
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "genre": "Fiction",
+    "pages": 281,
+    "image": "https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A powerful story of racial injustice and moral growth seen through the eyes of a young girl in the American South during the 1930s."
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "genre": "Classic",
+    "pages": 180,
+    "image": "https://m.media-amazon.com/images/I/71FTb9X6wsL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A portrait of the Jazz Age that explores themes of decadence, idealism, and the American Dream through the mysterious millionaire Jay Gatsby."
+  },
+  {
+    "id": 4,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "genre": "Science Fiction",
+    "pages": 412,
+    "image": "https://m.media-amazon.com/images/I/81ym3QUd3KL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A science fiction masterpiece about politics, religion, and ecology set on the desert planet Arrakis, the only source of the universe's most valuable substance."
+  },
+  {
+    "id": 5,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genre": "Romance",
+    "pages": 279,
+    "image": "https://m.media-amazon.com/images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A romantic novel that follows the emotional development of Elizabeth Bennet as she learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness."
+  },
+  {
+    "id": 6,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "genre": "Fantasy",
+    "pages": 310,
+    "image": "https://m.media-amazon.com/images/I/710+HcoP38L._AC_UF1000,1000_QL80_.jpg",
+    "description": "A fantasy novel about the quest of home-loving hobbit Bilbo Baggins to win a share of the treasure guarded by the dragon Smaug."
+  },
+  {
+    "id": 7,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "genre": "Dystopian",
+    "pages": 288,
+    "image": "https://m.media-amazon.com/images/I/81zE42gT3xL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A dystopian novel that anticipates developments in reproductive technology, sleep-learning, psychological manipulation, and classical conditioning that combine to profoundly change society."
+  },
+  {
+    "id": 8,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "genre": "Coming-of-age",
+    "pages": 234,
+    "image": "https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A novel about teenage alienation and rebellion as the protagonist, Holden Caulfield, recounts his experiences in New York City after being expelled from prep school."
+  },
+  {
+    "id": 9,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "genre": "Adventure",
+    "pages": 585,
+    "image": "https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg",
+    "description": "An epic tale of the voyage of the whaling ship Pequod and its captain, Ahab, who is obsessed with hunting the giant white sperm whale Moby Dick."
+  },
+  {
+    "id": 10,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year": 1869,
+    "genre": "Historical Fiction",
+    "pages": 1225,
+    "image":"https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A monumental work that mixes fictional narrative with historical discussion, chronicling the French invasion of Russia and its impact on Tsarist society through the stories of five aristocratic families."
+  },
+  {
+    "id": 11,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "genre": "Fantasy",
+    "pages": 1178,
+    "image": "https://m.media-amazon.com/images/I/71jLBXtWJWL._AC_UF1000,1000_QL80_.jpg",
+    "description": "An epic high-fantasy novel about the quest to destroy the One Ring, which was created by the Dark Lord Sauron to conquer Middle-earth."
+  },
+  {
+    "id": 12,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year": 1866,
+    "genre": "Psychological Fiction",
+    "pages": 430,
+    "image": "https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A psychological drama about the mental anguish and moral dilemmas of an impoverished ex-student who murders a pawnbroker for her money."
+  },
+  {
+    "id": 13,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "genre": "Philosophical Fiction",
+    "pages": 208,
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A philosophical book about a young Andalusian shepherd named Santiago who travels from his homeland in Spain to the Egyptian desert in search of treasure buried near the Pyramids."
+  },
+  {
+    "id": 14,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "year": -800,
+    "genre": "Epic Poetry",
+    "pages": 384,
+    "image": "https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg",
+    "description": "One of the two major ancient Greek epic poems that recount the adventures of the Greek hero Odysseus as he journeys home after the fall of Troy."
+  },
+  {
+    "id": 15,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year": 1818,
+    "genre": "Gothic Horror",
+    "pages": 280,
+    "image": "https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg",
+    "description": "A Gothic novel about Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment."
+  }
+]

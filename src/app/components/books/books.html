@@ -1,0 +1,36 @@
+<mat-toolbar [style.background-color]="'transparent'">
+  <div class="toolbar-content">
+    <mat-form-field class="search-input">
+      <input matInput type="search" [value]="searchTerm()" (input)="updateSearch($event)"
+             placeholder="поиск по имени и автору">
+    </mat-form-field>
+    <button matFab (click)="navigateToCreateBook()">
+      <mat-icon>add</mat-icon>
+    </button>
+    <button matFab>
+      <mat-icon>delete</mat-icon>
+    </button>
+    <button matFab>
+      <mat-icon>edit</mat-icon>
+    </button>
+  </div>
+</mat-toolbar>
+
+<div class="main-content">
+
+  @if (books(); as data) {
+    <mat-grid-list cols="5" rowHeight="260px">
+      @for (item of data; track item.id) {
+        <mat-grid-tile>
+          <app-book-card [book]="item"></app-book-card>
+        </mat-grid-tile>
+      } @empty {
+        <li>There are no items.</li>
+      }
+    </mat-grid-list>
+  }
+
+</div>
+
+
+

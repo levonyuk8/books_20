@@ -1,0 +1,48 @@
+<form class="example-form" [formGroup]="bookForm" (ngSubmit)="addBook()">
+  <mat-form-field class="example-full-width">
+    <mat-label>Название</mat-label>
+    <input matInput formControlName="title">
+  </mat-form-field>
+
+  <mat-form-field class="example-full-width">
+    <mat-label>Автор</mat-label>
+    <input matInput formControlName="author">
+  </mat-form-field>
+
+  <mat-form-field class="example-full-width">
+    <mat-label>Жанр</mat-label>
+    <input matInput formControlName="genre">
+  </mat-form-field>
+
+  <mat-form-field class="example-full-width">
+    <mat-label>Обложка</mat-label>
+    <input matInput formControlName="image">
+  </mat-form-field>
+
+
+  <table class="example-full-width" cellspacing="0">
+    <tr>
+      <td>
+        <mat-form-field class="example-full-width">
+          <mat-label>Год</mat-label>
+          <input matInput formControlName="year">
+        </mat-form-field>
+      </td>
+      <td>
+        <mat-form-field class="example-full-width">
+          <mat-label>Страницы</mat-label>
+          <input matInput formControlName="pages">
+        </mat-form-field>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <mat-form-field class="example-full-width">
+      <mat-label>Описание</mat-label>
+      <textarea matInput formControlName="description"></textarea>
+    </mat-form-field>
+  </p>
+
+  <button [disabled]="bookForm.invalid" matButton>Добавить</button>
+</form>
